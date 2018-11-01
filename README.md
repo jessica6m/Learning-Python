@@ -10,3 +10,5 @@ Reciepts.py - program designed to create reciepts from a furniture store for 2 c
 Physics_Class.py - practice creating functions using math and physics formulas
 
 Sals_Shipping.py - program used to calculate shipping cost based on options available. Practice with Control Flow
+
+Grade_Book.py - program created to manage gradebook. Practice using Python List
