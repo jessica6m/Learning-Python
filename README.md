@@ -1,5 +1,5 @@
 # Learning-Python
-In this repo I will save my projects, algorithm and data structures examples &amp; full stack applications
+In this repo I will save my projects, algorithm and data structures examples
 
 Python Practice: 
 
