@@ -16,3 +16,5 @@ Grade_Book.py - program created to manage gradebook. Practice using Python List
 Pizza.py - program created to manage different pizzas. More practice with Python List
 
 PigLatin.py - program created to take user input and convert it to piglatin
+
+AreaCalculator.py - program created to select a shape and calculate area of that shape 
