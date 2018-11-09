@@ -20,3 +20,5 @@ PigLatin.py - program created to take user input and convert it to piglatin
 AreaCalculator.py - program created to select a shape and calculate area of that shape 
 
 Vacation.py - program that calculates the cost of your vacation based on different price options
+
+RPS.py - game Rock Paper Scissor- program uses user input to determine winner
