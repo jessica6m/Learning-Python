@@ -21,4 +21,4 @@ AreaCalculator.py - program created to select a shape and calculate area of that
 
 Vacation.py - program that calculates the cost of your vacation based on different price options
 
-RPS.py - game Rock Paper Scissor- program uses user input to determine winner
+RPS.py - game Rock Paper Scissor- program uses user input to determine winner. Practice with Dictionaries and List
