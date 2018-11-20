@@ -24,3 +24,5 @@ Vacation.py - program that calculates the cost of your vacation based on differe
 RPS.py - game Rock Paper Scissor- program uses user input to determine winner. Practice with Dictionaries and List
 
 Battleship.py - game Battle Ship - Practice with functions and for loops. Program takes in user input and determines if location is the same as randomized location as ship to determine winner.
+
+carlys_clippers.py = program that filters prices of salons haircuts
